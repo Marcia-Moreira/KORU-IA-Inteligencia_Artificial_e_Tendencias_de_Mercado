@@ -1,0 +1,21 @@
+# Arquivos a serem desconsiderados no Commit para o GitHub:
+
+# Projeto Inteligência Artificial e Tendências de Mercado
+
+# 1- Ignorar Pasta de Anotações, Pesquisas e Rascunhos Marcia Moreira: 
+rascunhos_e_pesquisas_MM
+rascunhos_img
+
+# 2- Ignorar a pasta de Ambiente Virtual:
+.venv/
+
+# 3- Ignorar a pasta __pycache__:
+__pycache__/
+
+# 4- Ignorar pasta pdf com Versões das Atividades:
+versoes_pdf
+
+# 5- Ignorar arquivos pdf com Versões das Atividades:
+# IA-Relatorio-Pesquisa_de_Mercado_v01.pdf
+IA-Slide-Implantacao_chatbot_v01.pdf
+
