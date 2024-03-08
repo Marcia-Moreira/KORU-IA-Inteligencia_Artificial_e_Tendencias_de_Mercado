@@ -1,9 +1,8 @@
 
-Escola Korú - Bootcamp  Desenvolvimento FullStack
-EAD - 2023/2024
-Curso: Desenvolvimento de Software e Engenharia de Dados   
-
-Módulo: Inteligência Artificial e Tendências de Mercado - Projeto de Aprendizagem 
+Escola Korú - Bootcamp  Desenvolvimento Full Stack  
+EAD - 2023/2024  
+Curso: Desenvolvimento de Software e Engenharia de Dados  
+Módulo: Inteligência Artificial e Tendências de Mercado - Projeto de Aprendizagem  
 
 | Integrantes da Squad - Grupo 01 |
 |-------------|
@@ -26,19 +25,19 @@ Empresa solicitante do projeto - Ferreira & Koru Logistics
 Atividade fim - Produção e Venda de Computadores
 
 
-## Objetivo do Projeto
+## Objetivo do Projeto:
 
-- 1 Escolher um dos problemas que ocorrem na empresa para ser analisado e tratado com IA.
+- Escolher um dos problemas que ocorrem na empresa para ser analisado e tratado com IA.
   
-- 2 Pesquisa de Mercado - Identificar as possíveis tecnologias em Inteligência Artificial que poderiam ser implantadas para solucionar ou mitigar os efeitos negatidos do problema escolhido.
+- Pesquisa de Mercado - Identificar as possíveis tecnologias em Inteligência Artificial que poderiam ser implantadas para solucionar ou mitigar os efeitos negatidos do problema escolhido.
   
-- 3 Escolher uma das tecnologias para ser implementada.
+- Escolher uma das tecnologias para ser implementada.
   
-- 4 Pesquisar casos de sucesso e detalhes da tecnologia para apresentar um relatório de defesa à diretoria da empresa, que resolva o problema escolhido.
+- Pesquisar casos de sucesso e detalhes da tecnologia para apresentar um relatório de defesa à diretoria da empresa, que resolva o problema escolhido.
   
-- 5 Criar protótipo de baixa fidelidade da tecnologia a ser implantada, que descreva o passo a passo da solução. 
+- Criar protótipo de baixa fidelidade da tecnologia a ser implantada, que descreva o passo a passo da solução. 
 
-## Estruturação Prática
+## Estruturação Prática:
 
 Problema escolhido - Atraso na resposta da equipe de vendas
 
@@ -62,22 +61,24 @@ Solução escolhida - Implantação de chatbot
 
 ## Links Importantes:
 
-Trello - Fluxo do projeto
+Trello - Fluxo do projeto  
 https://trello.com/invite/b/PEQpwm1Y/ATTI7a72c60d74292d8d012dd897324dc128D9F1F727/fluxo-do-projeto-chatbot-ferreira-koru-logistics
 
 
-Google Drive - Relatório Pesquisa de Mercado
+Google Drive - Relatório Pesquisa de Mercado  
 https://docs.google.com/document/d/1qv-YJh0kIlm7-WQhy-dujkzVK9mj-AUip_S3RGt1TuA/edit?usp=sharing
 
 
-Google Drive - Slides da apresentação e defesa de idéias
+Google Drive - Slides da apresentação e defesa de idéias  
 https://docs.google.com/presentation/d/1S7gmgDA_eJQvWGotmukQJ07TpfUWfSN8xZtDwRHcmKs/edit?usp=sharing
 
 
-Mind Meister - Fluxograma da Implantação do Projeto Chatbot
+Mind Meister - Fluxograma da Implantação do Projeto Chatbot  
+https...
 
 
-Mind Meister - Fluxograma de conversas do Chatbot
+Mind Meister - Fluxograma de conversas do Chatbot  
+https...
 
 
 
