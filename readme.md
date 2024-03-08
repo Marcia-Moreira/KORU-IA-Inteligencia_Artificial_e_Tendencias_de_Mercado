@@ -1,5 +1,5 @@
 
-Escola Korú - Bootcamp  Desenvolvimento Full Stack  
+## Escola Korú - Bootcamp  Desenvolvimento Full Stack  
 EAD - 2023/2024  
 Curso: Desenvolvimento de Software e Engenharia de Dados  
 Módulo: Inteligência Artificial e Tendências de Mercado - Projeto de Aprendizagem  
@@ -24,10 +24,11 @@ Empresa solicitante do projeto - Ferreira & Koru Logistics
 
 Atividade fim - Produção e Venda de Computadores
 
-
 ## Objetivo do Projeto:
 
-- Escolher um dos problemas que ocorrem na empresa para ser analisado e tratado com IA.
+## Objetivo do Projeto
+
+- 1 Escolher um dos problemas que ocorrem na empresa para ser analisado e tratado com IA.
   
 - Pesquisa de Mercado - Identificar as possíveis tecnologias em Inteligência Artificial que poderiam ser implantadas para solucionar ou mitigar os efeitos negatidos do problema escolhido.
   
@@ -77,8 +78,7 @@ Mind Meister - Fluxograma da Implantação do Projeto Chatbot
 https...
 
 
-Mind Meister - Fluxograma de conversas do Chatbot  
-https...
+Mind Meister - Fluxograma de conversas do Chatbot
 
 
 
